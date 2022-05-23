@@ -6,15 +6,11 @@ Hello, my name is Austin Limanek and I have just started my coding career at Cod
 
 What does growth mindset mean to me? It means identifying holes in my knowledge; asking questions, researching, and experimenting; and share my knowledge and passions with others!
 
-Syntax highlighted code block
+#### Reminders
 
-# Header 1
-## Header 2
-### Header 3
+- Keep asking questions when you either don't know something or are confused about something
+- You are capable, intelligent, and able to learn anything!
+- Talk with colleagues are peers about what they are working on and learning
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
 
