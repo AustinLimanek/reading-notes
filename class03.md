@@ -9,7 +9,7 @@ Current Reading: [Git Tutorial: A Comprehensive Guide](https://blog.udemy.com/gi
 
 Local -> Centralized -> Dsitributed -> Git
 
-The above is the chronological flow of the ideas that led to Git from programmers storing previous versions of code on their own hard disks. Distributed version control systems are the most modern and secure ways to insure that code will be protected from loss. A *mirrored* repositroy allows for two secure storage locations of projects.
+The above is the chronological flow of the ideas that led to Git from programmers storing previous versions of code on their own hard disks. Distributed version control systems are the most modern and secure ways to insure that code will be protected from loss. A *mirrored* repositroy allows for two secure storage locations for projects.
 
 ### Git
 

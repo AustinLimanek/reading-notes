@@ -26,10 +26,5 @@ I have a B.S. in **physics** from Western Washington University. I am currently 
 
 ### Contact Information
 
-Email: austin.limanek@gmail.com
+Email: austin.limanek@gmail.com  
 Phone: (206) 388-8897
-
-
-
-
-
