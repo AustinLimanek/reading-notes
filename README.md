@@ -19,9 +19,9 @@ I have a B.S. in **physics** from Western Washington University. I am currently 
 ### Journal Notes for Code Fellows: 102, ...
 
 #### Code 102
-  - [Class 01](class01.md)
-  - [Class 02](class02.md)
-  - [Class 03](class03.md)
+  - [Class 01: Growth Mindset](class01.md)
+  - [Class 02: Markdown, Github, Slack, Remo, Canvas, and Visual Studio Code](class02.md)
+  - [Class 03:](class03.md)
   - [Class 04](class04.md)
 
 ### Contact Information
