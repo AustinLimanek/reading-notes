@@ -1,6 +1,6 @@
 # Class 1
 
-Heading level 1
+## Reading Notes
 
 ## Learning Markdown
 
