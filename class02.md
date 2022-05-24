@@ -1,5 +1,7 @@
 # Class 2 
 
+[Journal Home](README.md)
+
 ## Reading Notes
 
 ### Choosing a Text Editor

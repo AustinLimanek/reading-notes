@@ -1,5 +1,7 @@
 # Class 1
 
+[Journal Home](README.md)
+
 ## Reading Notes
 
 ## Learning Markdown
