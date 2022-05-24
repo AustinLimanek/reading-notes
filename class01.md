@@ -23,4 +23,16 @@ you can also use the strange backwards half-quote symbol to have `code` on the p
 
 #### Mastering Markdown on GitHub
 
+WOW!!! There are so many features in this mastering markdown file. I wish I had more time to explore all that is possible. 
+
+In the mean time, here are a few of the cool things:
+
+* You can add links
+  -Old fashioned: another webpage
+  -Section: Dynamic website
+  -Relative: UI level 10 with website navigation for clients
+* Images are handeled easily
+* ***Lists*** as seen here *(pretty meta)*
+* You can reference others, teams, and other pages
+* Use footnotes to be legal and properly reference ideas, quotes, and code.
 
