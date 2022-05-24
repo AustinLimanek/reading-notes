@@ -20,7 +20,7 @@ I have a B.S. in **physics** from Western Washington University. I am currently 
 
 #### Code 102
   -[Class 01](https://austinlimanek.github.io/reading-notes/class01.md)
-  -[Class 02](austinlimanek.github.io/reading-notes/class01.md)
+  -[Class 02](https://austinlimanek.github.io/reading-notes/class02.md)
 
 #### Contact Information
 
