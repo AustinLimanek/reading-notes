@@ -5,11 +5,11 @@
 ### Choosing a Text Editor
 
 A text editor is where you can organize ideas and share information with others. When it comes to choosing a text editor
-it is best to consider both personal preference and the projects objective.
+it is best to consider both personal preference and the objective of the project.
 
 ### The Command Line
 
-On a mac you can open the terminal through the dock. This is the easiest of the options if you access the terminal often. 
+On a mac, you can open the terminal through the dock. This is the easiest of the options if you access the terminal often. 
 However, there are other methods of accessing the terminal. 
 
 The prompt line is followed by colon. This is where you fill in commands for the terminal.
@@ -26,6 +26,7 @@ The prompt line is followed by colon. This is where you fill in commands for the
 ### About Files
 
 All is a file. This includes
+
   > u.me. 
 
 There are a few situations that include quotations and other complications that are explained in this file. Reference this file for
