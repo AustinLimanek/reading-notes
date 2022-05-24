@@ -1,4 +1,4 @@
-# Class 01
+# Class 1
 
 Heading level 1
 
