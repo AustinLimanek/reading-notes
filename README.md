@@ -2,27 +2,19 @@
 
 Hello, my name is Austin Limanek and I have just started my coding career at Code Fellows.
 
-### Growth Mindset
-
-What does growth mindset mean to *me*? It means identifying holes in my knowledge; asking questions, researching, and experimenting; and **sharing** my knowledge and passions with others!
-
-#### Reminders
-
-- Keep asking questions when you either don't know something or are confused about something
-- You are capable, intelligent, and able to learn anything!
-- ***Talk with colleagues and peers*** about what they are working on and learning
-
-### Biography
+## Biography
 
 I have a B.S. in **physics** from Western Washington University. I am currently a student at Code Fellows.
 
-### Journal Notes for Code Fellows: 102, ...
+### Journal Notes for Code Fellows: 102, `...`
 
 #### Code 102
-  - [Class 01: Growth Mindset](class01.md)
-  - [Class 02: Markdown, Github, Slack, Remo, Canvas, and Visual Studio Code](class02.md)
-  - [Class 03:](class03.md)
-  - [Class 04](class04.md)
+
+- [Growth Mindset](growth.md)
+- [Class 01: Learning Markdown](class01.md)
+- [Class 02: Github, Slack, Remo, Canvas, and Visual Studio Code](class02.md)
+- [Class 03: DVCS and Git](class03.md)
+- [Class 04: HTML Wireframe and Basics](class04.md)
 
 ### Contact Information
 

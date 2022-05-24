@@ -16,4 +16,3 @@ The above is the chronological flow of the ideas that led to Git from programmer
 The current longevity of Git is a huge advantage. Because so many programmers already use the Git ecosystem, you can be confident that what you are learning and becoming familiar with will be applicable through at least the beginning to intermediate portion of your career.
 
 One can follow how to download Git by looking at this [webpage](https://blog.udemy.com/git-tutorial-a-comprehensive-guide/).
-
