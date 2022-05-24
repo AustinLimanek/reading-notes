@@ -16,6 +16,12 @@ What does growth mindset mean to *me*? It means identifying holes in my knowledg
 
 I have a B.S. in **physics** from Western Washington University. I am currently a student at Code Fellows.
 
+### Journal Notes for Code Fellows: 102, ...
+
+#### Code 102
+  -[Class 01](austinlimanek.github.io/reading-notes/class01.md)
+  -[Class 02](austinlimanek.github.io/reading-notes/class01.md)
+
 #### Contact Information
 
 Email: austin.limanek@gmail.com
