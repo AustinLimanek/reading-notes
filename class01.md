@@ -6,7 +6,7 @@ Heading level 1
 
 #### Markdown Basic Syntax
 
-The document nicely compares how the rendered output will appear while using both markdown and HTML. This is a great pedogical tool
+The document nicely compares how the rendered output will appear while using both markdown and HTML. This is a great pedagogical tool
 for someone like me who is learning both at the same time. Seeing both allows for:
 
 1. Seeing what is possible in the language
@@ -18,7 +18,7 @@ Something that I didn't realize was a big focus were blockquote. In this summary
 is quite nice. 
   > We hold these truths
 
-you can also use the strange backwards half-quote symbol to have `code` on the page!
+you can also use the strange backward half-quote symbol to have `code` on the page!
 
 
 #### Mastering Markdown on GitHub
