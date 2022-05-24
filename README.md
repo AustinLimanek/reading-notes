@@ -12,7 +12,7 @@ What does growth mindset mean to *me*? It means identifying holes in my knowledg
 - You are capable, intelligent, and able to learn anything!
 - ***Talk with colleagues and peers*** about what they are working on and learning
 
-#### Biography
+### Biography
 
 I have a B.S. in **physics** from Western Washington University. I am currently a student at Code Fellows.
 
@@ -22,7 +22,7 @@ I have a B.S. in **physics** from Western Washington University. I am currently 
   - [Class 01](https://austinlimanek.github.io/reading-notes/class01.md)
   - [Class 02](https://austinlimanek.github.io/reading-notes/class02.md)
 
-#### Contact Information
+### Contact Information
 
 Email: austin.limanek@gmail.com
 Phone: (206) 388-8897
