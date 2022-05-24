@@ -27,5 +27,6 @@ The prompt line is followed by colon. This is where you fill in commands for the
 
 All is a file. This includes
   > u.me. 
+
 There are a few situations that include quotations and other complications that are explained in this file. Reference this file for
 clarification on these issues as they arise.
