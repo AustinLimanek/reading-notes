@@ -6,5 +6,5 @@
 
 Local -> Centralized -> Dsitributed -> Git
 
-The above is the chronological flow of the ideas that led to Git from programmers storing previous versions of code 
+The above is the chronological flow of the ideas that led to Git from programmers storing previous versions of code  
 on their own hard disks. 
