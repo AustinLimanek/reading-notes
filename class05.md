@@ -12,6 +12,8 @@ Current Readings:
 
 ### What is CSS
 
+CSS is a language that is used to complement html by adding style to webpages. The specifications or "specs" are the documents that run in the background that define all the 
+
 ### How to Add CSS
 
 ### CSS Color
