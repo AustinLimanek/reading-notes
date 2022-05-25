@@ -36,3 +36,5 @@ which is different that what we have uses:
 I don't know the difference between these two, if there is one.
 
 You can use `git stash` to store changes with commiting them.
+
+&copy; 2022, NoMichi

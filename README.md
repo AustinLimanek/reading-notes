@@ -15,8 +15,12 @@ I have a B.S. in **physics** from Western Washington University. I am currently 
 - [Class 02: Github, Slack, Remo, Canvas, and Visual Studio Code](class02.md)
 - [Class 03: DVCS and Git](class03.md)
 - [Class 04: HTML Wireframe and Basics](class04.md)
+- [Class 05: CSS Introduction](class03.md)
+- [Class 06: JS Intro and Computer Mechanics](class04.md)
 
 ### Contact Information
 
 Email: austin.limanek@gmail.com  
 Phone: (206) 388-8897
+
+&copy; 2022, NoMichi

@@ -18,3 +18,5 @@ Current Readings:
 ### Variables
 
 ### How Computers Work - Playlist
+
+&copy; 2022, NoMichi

@@ -25,3 +25,5 @@ In addition to the basic content tags, empty tags such as img was discusses. Img
 ### Semantics
 
 The concept of semantics defines the function of a tag or function. The name that will be pointed to should be desciptive so that other programmers, parsers, and compilers can have a general idea of what is in the source code. There are roughly 100 different types of semantic elements in html. Some of them such as head, body, p are all familiar. However, there are a few I was unfamiliar with such as aside, figcaption,mark, and time. Although I don't know exactly what these elements do, since these elements are semantic, then I have a pretty good idea what they do. This is a very important feature of a programming language and feeds into usability.
+
+&copy; 2022, NoMichi

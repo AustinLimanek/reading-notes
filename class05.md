@@ -15,3 +15,5 @@ Current Readings:
 ### How to Add CSS
 
 ### CSS Color
+
+&copy; 2022, NoMichi

@@ -36,3 +36,5 @@ In the mean time, here are a few of the cool things:
 * ***Lists*** as seen here *(pretty meta)*
 * You can reference others, teams, and other pages
 * Use footnotes to be legal and properly reference ideas, quotes, and code.
+
+&copy; 2022, NoMichi

@@ -9,3 +9,5 @@ What does growth mindset mean to *me*? It means identifying holes in my knowledg
 - Keep asking questions when you either don't know something or are confused about something
 - You are capable, intelligent, and able to learn anything!
 - ***Talk with colleagues and peers*** about what they are working on and learning
+
+&copy; 2022, NoMichi

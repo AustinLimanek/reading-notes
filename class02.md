@@ -34,3 +34,5 @@ All is a file. This includes
 
 There are a few situations that include quotations and other complications that are explained in this file. Reference this file for
 clarification on these issues as they arise.
+
+&copy; 2022, NoMichi

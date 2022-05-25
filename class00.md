@@ -15,3 +15,5 @@ Current Readings:
 ### 
 
 ### 
+
+&copy; 2022, NoMichi
