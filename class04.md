@@ -1,6 +1,7 @@
 # Class 4
 
 [Journal Home](README.md)  
+
 Current Readings:
 
    1. [Wireframe and Design](https://careerfoundry.com/en/blog/ux-design/how-to-create-your-first-wireframe/)
@@ -17,4 +18,10 @@ Sketching or Wireframe should be the first step while programming. Then second d
 
 ### Mozilla HTML Basics
 
+There are tags that can either be empty or require content between opening and closing tags. For tags such as: head, body, header, main, footer, and p they all have content that exists inside their opening anc closing tags. The closing tag has a forward slash to distinguish it from the opening tag. Tags will often nest inside other tags to allow for structure and organization.
+
+In addition to the basic content tags, empty tags such as img was discusses. Img is where images are sourced and discribed. There is no content that will show besides the actual sourced image, thus the html coding will be done all within the open-only tag. Attributes can be added to many of the tags. These attributes help specify and further utalize other features for a website or project.
+
 ### Semantics
+
+The concept of semantics defines the function of a tag or function. The name that will be pointed to should be desciptive so that other programmers, parsers, and compilers can have a general idea of what is in the source code. There are roughly 100 different types of semantic elements in html. Some of them such as head, body, p are all familiar. However, there are a few I was unfamiliar with such as aside, figcaption,mark, and time. Although I don't know exactly what these elements do, since these elements are semantic, then I have a pretty good idea what they do. This is a very important feature of a programming language and feeds into usability.
