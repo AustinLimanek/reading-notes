@@ -17,3 +17,6 @@ Current Readings:
 ### 
 
 &copy; 2022, NoMichi
+
+- [Class 00: ](class00.md)
+- [Class 00: ](class00.md)

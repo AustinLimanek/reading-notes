@@ -17,6 +17,8 @@ I have a B.S. in **physics** from Western Washington University. I am currently 
 - [Class 04: HTML Wireframe and Basics](class04.md)
 - [Class 05: CSS Introduction](class05.md)
 - [Class 06: JS Intro and Computer Mechanics](class06.md)
+- [Class 07: Operators and Functions](class07.md)
+- [Class 08: Expressions and Loops](class08.md)
 
 ### Contact Information
 
