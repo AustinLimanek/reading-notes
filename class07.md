@@ -12,7 +12,11 @@ Current Readings:
 
 ### MDN Control Flow
 
+Control flow is the order in which the browser executes code. With `html` and `CSS` the code is executed top to bottom in a linear fashion. However, with the introduction of `Java Script` there is the possibility of functions, loops, and conditionals that will change the order of execution depending on conitional statements and events occuring on the page due to the user.
+
 ### Functions
+
+
 
 ### Operators
 
