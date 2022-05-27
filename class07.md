@@ -16,8 +16,10 @@ Control flow is the order in which the browser executes code. With `html` and `C
 
 ### Functions
 
-
+The advantage of using functions is that you don't have to a large number of lines repeatedly each time you want a certain outcome to occur. Instead, you could right a function that contains the code to execute a certain outcome and then call that function where ever you want that operation to occur. Furthermore, you can nest functions.
 
 ### Operators
+
+The use of operators comes from manipulating one or two operands in predefined ways to obtain a truth value or other output. The operators are highly flexible and can be used for single line operations or they can be used to condition loops, function, and other active elements in the repository.
 
 &copy; 2022, NoMichi
