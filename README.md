@@ -6,9 +6,10 @@ Hello, my name is Austin Limanek and I have just started my coding career at Cod
 
 I have a B.S. in **physics** from Western Washington University. I am currently a student at Code Fellows.
 
-### Journal Notes for Code Fellows: 102, `...`
+### Journal Notes for Code Fellows: 102, 201, `...`
 
-#### Code 102
+<details>
+<summary> Code 102 </summary>
 
 - [Growth Mindset](growth.md)
 - [Class 01: Learning Markdown](class01.md)
@@ -19,6 +20,10 @@ I have a B.S. in **physics** from Western Washington University. I am currently 
 - [Class 06: JS Intro and Computer Mechanics](class06.md)
 - [Class 07: Operators and Functions](class07.md)
 - [Class 08: Expressions and Loops](class08.md)
+
+</details>
+
+#### Code 201
 
 ### Contact Information
 
