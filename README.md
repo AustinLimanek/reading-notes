@@ -11,22 +11,23 @@ I have a B.S. in **physics** from Western Washington University. I am currently 
 <details>
 <summary> Code 102 </summary>
 
-- [Growth Mindset](growth.md)
-- [Class 01: Learning Markdown](class01.md)
-- [Class 02: Github, Slack, Remo, Canvas, and Visual Studio Code](class02.md)
-- [Class 03: DVCS and Git](class03.md)
-- [Class 04: HTML Wireframe and Basics](class04.md)
-- [Class 05: CSS Introduction](class05.md)
-- [Class 06: JS Intro and Computer Mechanics](class06.md)
-- [Class 07: Operators and Functions](class07.md)
-- [Class 08: Expressions and Loops](class08.md)
+- [Growth Mindset](code102/growth.md)
+- [Class 01: Learning Markdown](code102/class01.md)
+- [Class 02: Github, Slack, Remo, Canvas, and Visual Studio Code](code102/class02.md)
+- [Class 03: DVCS and Git](code102/class03.md)
+- [Class 04: HTML Wireframe and Basics](code102/class04.md)
+- [Class 05: CSS Introduction](code102/class05.md)
+- [Class 06: JS Intro and Computer Mechanics](code102/class06.md)
+- [Class 07: Operators and Functions](code102/class07.md)
+- [Class 08: Expressions and Loops](code102/class08.md)
 
 </details>
 
 <details>
 <summary> Code 201 </summary>
 
-- [Class 01: Learning Markdown](class01201.md)
+- [Class 01: Learning Markdown](code201/class01.md)
+- [Class 09: Forms and JS Events](code201/class09.md)
 
 </details>
 

@@ -30,7 +30,7 @@ In the tracking and staging subsection, the article points out that one can add 
 
 > git add *
 
-which is different that what we have uses:
+which is different than whan we have uses:
 > git add .
 
 I don't know the difference between these two, if there is one.
