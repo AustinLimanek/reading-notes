@@ -28,6 +28,7 @@ I have a B.S. in **physics** from Western Washington University. I am currently 
 
 - [Class 01: Learning Markdown](code201/class01.md)
 - [Class 09: Forms and JS Events](code201/class09.md)
+- [Class 00: JS Debugging](code201/class10.md)
 
 </details>
 
