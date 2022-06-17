@@ -1,4 +1,4 @@
-# Class 00
+# Class 10
 
 [Journal Home](README.md)
 
@@ -17,7 +17,12 @@ The developer went through code for a basic quessing game and some common errors
 
 This article coveres many features of the developer tools that are available on major browsers such as Chrome, Firefox, and Safari. Some of the features include the ability to:
 
+* Removing code from the webpage by clicking the checkmarks to preview what not having this line would do to the page
+* Box model of any HTML element: which shows padding, border, and margin
+* Console that shows outputs of `console.log()' and a view of the errors that have occured
+* An ability to apply breakpoints to see what the webpage would look like if the remaining components after the breakpoint were not loaded
 
+These were freatures that I were aware of, but the author supplemented my understanding of these freatures greately. However, I still don't know how to effectively use the breakpoint feature of the developer tools. I will have to explore this at a later time.
 
 ### Things I want to know more about
 
