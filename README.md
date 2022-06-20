@@ -11,7 +11,7 @@ I have a B.S. in **physics** from Western Washington University. I am currently 
 <details>
 <summary> Code 102 </summary>
 
-- [Growth Mindset](code102/growth.md)
+- [Growth Mindset](./code102/growth.md)
 - [Class 01: Learning Markdown](code102/class01.md)
 - [Class 02: Github, Slack, Remo, Canvas, and Visual Studio Code](code102/class02.md)
 - [Class 03: DVCS and Git](code102/class03.md)
@@ -28,7 +28,8 @@ I have a B.S. in **physics** from Western Washington University. I am currently 
 
 - [Class 01: Learning Markdown](code201/class01.md)
 - [Class 09: Forms and JS Events](code201/class09.md)
-- [Class 00: JS Debugging](code201/class10.md)
+- [Class 10: JS Debugging](code201/class10.md)
+- [Class 11: Audio, Video, Images](code201/class11.md)
 
 </details>
 
