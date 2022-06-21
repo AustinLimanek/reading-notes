@@ -30,6 +30,7 @@ I have a B.S. in **physics** from Western Washington University. I am currently 
 - [Class 09: Forms and JS Events](code201/class09.md)
 - [Class 10: JS Debugging](code201/class10.md)
 - [Class 11: Audio, Video, Images](code201/class11.md)
+- [Class 12: Chart.js, Canvas](code201/class12.md)
 
 </details>
 
