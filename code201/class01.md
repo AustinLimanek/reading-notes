@@ -1,4 +1,4 @@
-# Class 00
+# Class 1
 
 [Journal Home](README.md)
 
