@@ -37,8 +37,9 @@ I have a B.S. in **physics** from Western Washington University. I am currently 
 <details>
 <summary> Code 201 </summary>
 
-- [Class 01: React](code301/class01.md)
-- [Class 02: React](code301/class02.md)
+- [Class 01: What are components](code301/class01.md)
+- [Class 02: Props in React](code301/class02.md)
+- [Class 03: Map function](code301/class02.md)
 
 </details>
 

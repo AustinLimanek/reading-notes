@@ -11,9 +11,15 @@ Current Readings:
 
 ### Component-Based Architecture
 
-
+1. It's a reusable unit in the React architecture that often fits into a decided functionality group and is separate, for the most part, from other components in the application design.
+2. The characteristics in a way define what a component is. The component should be replaceable, extensible, independent, and reusable within the application architecture.
+3. The principals of Reach allow for projects to be lighter weight and strives for dry code that emphasizes reuse and modularity.
 
 ### What is Props and How to Use it in React
+
+1. Props in short for properties.
+2. Props are similar to arguments in functions in other languages. However, they are objects and are read only.
+3. Props flow from the parent to a child and not the other way around.
 
 ### Things I want to know more about
 
