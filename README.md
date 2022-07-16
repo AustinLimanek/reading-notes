@@ -39,7 +39,9 @@ I have a B.S. in **physics** from Western Washington University. I am currently 
 
 - [Class 01: What are components](code301/class01.md)
 - [Class 02: Props in React](code301/class02.md)
-- [Class 03: Map function](code301/class02.md)
+- [Class 03: Map function](code301/class03.md)
+- [Class 04: Forms and ternary Operators](code301/class04.md)
+- [Class 05: React: Putting it all together](code301/class05.md)
 
 </details>
 
