@@ -4,17 +4,13 @@
 
 Current Readings:
 
-1. []()
-2. []()
-3. []()
+[API Design Best Practices](https://docs.microsoft.com/en-us/azure/architecture/best-practices/api-design)
 
 ## Reading Notes
 
-### 
+### API Design Best Practices
 
-### 
-
-### 
+1. 
 
 ### Things I want to know more about
 
