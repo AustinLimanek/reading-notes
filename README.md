@@ -11,7 +11,7 @@ I have a B.S. in **physics** from Western Washington University. I am currently 
 <details>
 <summary> Code 102 </summary>
 
-- [Growth Mindset](./code102/growth.md)
+- [Growth Mindset](https://austinlimanek.github.io/reading-notes/code102/growth.md)
 - [Class 01: Learning Markdown](code102/class01.md)
 - [Class 02: Github, Slack, Remo, Canvas, and Visual Studio Code](code102/class02.md)
 - [Class 03: DVCS and Git](code102/class03.md)
