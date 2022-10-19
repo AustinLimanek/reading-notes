@@ -1,6 +1,6 @@
 # Class 1
 
-[Journal Home](README.md)
+[Journal Home](./README.md)
 
 ## Reading Notes
 
