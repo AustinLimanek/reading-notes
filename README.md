@@ -1,12 +1,12 @@
 # My Reading Journal
 
-Hello, my name is Austin Limanek and I have just started my coding career at Code Fellows.
+Hello, my name is Austin Limanek and I am finishing my Code Fellows program in December 2022.
 
 ## Biography
 
 I have a B.S. in **physics** from Western Washington University. I am currently a student at Code Fellows.
 
-### Journal Notes for Code Fellows: 102, 201, `...`
+### Journal Notes for Code Fellows: 102, 201, 301, and 401
 
 <details>
 <summary> Code 102 </summary>
@@ -26,11 +26,11 @@ I have a B.S. in **physics** from Western Washington University. I am currently 
 <details>
 <summary> Code 201 </summary>
 
-- [Class 01: Learning Markdown](code201/class01.md)
-- [Class 09: Forms and JS Events](code201/class09.md)
-- [Class 10: JS Debugging](code201/class10.md)
-- [Class 11: Audio, Video, Images](code201/class11.md)
-- [Class 12: Chart.js, Canvas](code201/class12.md)
+- [Class 01: Learning Markdown](/code201/class01.md)
+- [Class 09: Forms and JS Events](/code201/class09.md)
+- [Class 10: JS Debugging](/code201/class10.md)
+- [Class 11: Audio, Video, Images](/code201/class11.md)
+- [Class 12: Chart.js, Canvas](/code201/class12.md)
 
 </details>
 
