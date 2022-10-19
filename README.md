@@ -8,6 +8,8 @@ I have a B.S. in **physics** from Western Washington University. I am currently 
 
 ### Journal Notes for Code Fellows: 102, 201, 301, and 401
 
+[Class 01: Learning Markdown](code102/class01.md)
+
 <details>
 <summary> Code 102 </summary>
 
