@@ -10,7 +10,7 @@ Current Readings:
 
 Relational databases are a great way to organize millions to billions of instances of some data type. In addition, relational databases can relate several tables to one another. If not all the instances have the same data types then multiple tables can be a great way to circumvent empty elements in a table. You can have an id for each instance for the single source of truth (or a basis of shared properties between all of the instances). The addition tables allow for shared properties of a subset of the instances.
 
-SQL is a shared language that many relational databases use to allow for their users to navigate their data. Data can be searching using several logical filters. 
+SQL is a shared language that many relational databases use to allow for their users to navigate their data. Data can be searching using several logical filters.
 
 Images from lessons 1-6 and lessons 13-18.
  ![lesson1](./images/lesson1.png)
@@ -25,6 +25,5 @@ Images from lessons 1-6 and lessons 13-18.
  ![lesson16](./images/lesson16.png)
  ![lesson17](./images/lesson17.png)
  ![lesson18](./images/lesson18.png)
-### 
 
 &copy; 2022, NoMichi
