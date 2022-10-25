@@ -16,7 +16,7 @@ Current Readings:
 
 ### 
 
-### Things I want to know more about
+## Things I want to know more about
 
 &copy; 2022, NoMichi
 
