@@ -28,6 +28,8 @@ Arrays in Java are a set length. In addition, the arrays must hold all of the sa
 
 ### Which loops use a loop counter
 
+The for loop.
+
 ### Describe 3 built-in methods for Arrays
 
 - `.length` is a property that outputs the length of an array.
