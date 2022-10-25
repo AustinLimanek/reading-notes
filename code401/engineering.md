@@ -24,6 +24,4 @@ What are 3 things I'll start doing to "un-stick" myself whenever I get stuck on 
 2. Ask others for their perspectives on the problem
 3. Step away for five-ten minutes and think about the problem from a distance or think about something different all together. Allow my subconscious work on the problem.
 
-### Things I want to know more about
-
 &copy; 2022, NoMichi
