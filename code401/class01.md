@@ -43,7 +43,7 @@ This section summarizes many of the most often used features of the Java languag
 
 I would like to understand more about how primitives are different than other parts of the language. Why are objects not a primitive? Does this mean that an object is made up of the eight primitives of Java. In addition, how do they relate to the write, read, delete, left, right operations of all computers?
 
-## Qusestions
+## Questions
 
 ### What does "strong typed" mean?
 
