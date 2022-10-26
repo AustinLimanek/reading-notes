@@ -12,6 +12,8 @@ Current Readings:
 
 ### Primitives vs. Objects
 
+
+
 ### Exceptions in Java
 
 ### Using Scanner to read in a file in Java
