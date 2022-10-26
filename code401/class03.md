@@ -26,4 +26,6 @@ The scanner is an API that works to break down input information into single tok
 
 ## Things I want to know more about
 
+Scanners and formatting seem like fairly useful objects if they are understood well. I have had countless times where I would like to convert information from a webpage or a document and transfer that into useable information for excel or another IDE.
+
 &copy; 2022, NoMichi
