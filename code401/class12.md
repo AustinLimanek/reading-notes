@@ -1,4 +1,4 @@
-# Class 11
+# Class 12
 
 [Journal Home](README.md)
 
